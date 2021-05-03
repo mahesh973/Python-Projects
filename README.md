@@ -21,6 +21,9 @@
              |-- database.db
              |-- models.py
              |-- views.py
+           
+        |-- main.py
+        |-- requirements.txt
              
 ### 4. Run using the following command
       python main.py
