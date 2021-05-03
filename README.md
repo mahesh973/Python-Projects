@@ -5,6 +5,7 @@
     pip install virtualenvwrapper-win
 ### 2. Create a virtual environment
      mkvirtualenv (envname)
+     
 ### 3. Setup the folder structure
 
 ### 4. Run using the following command
