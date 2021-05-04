@@ -9,8 +9,6 @@
      
 ### 3. Setup the folder structure(in the similar manner)
         |--- Flask_Website
-             |-- static
-                 |-- index.js
              |-- templates
                  |-- base.html
                  |-- home.html
