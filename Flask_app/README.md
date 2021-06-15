@@ -1,6 +1,6 @@
 # Flask-Notes-App Tutorial
-### This is a simple Notes in which you can create and delete notes time-time when required.
-### This website includes all the login and SignUp functionalities and notes will be stored in an SQLAlchemyDB.
+### This is a simple Notes Application in which you can create and delete notes from time to time.
+### This website includes all the login,logout and SignUp functionalities and notes will be stored in an Database.
 ### Website preview can be seen in the bottom of this page
 ## Setup and Installation
 
