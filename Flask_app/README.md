@@ -28,4 +28,6 @@
     
 # View the website in the browser by typing the following address
        https://127.0.0.1:5000
+# Login Page
+![Login Page Image](/Flask_Website/login_page.png?raw=true "Login Page")
     
