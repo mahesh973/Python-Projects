@@ -28,6 +28,12 @@
     
 # View the website in the browser by typing the following address
        https://127.0.0.1:5000
+# Your Home Page appears in this way
 ![login_page](https://user-images.githubusercontent.com/59694546/122037005-cc19fe00-cdf1-11eb-9667-73e18332cc6a.png)
+# Your SignUp page appears in this way
+![Sign_Up_Page](https://user-images.githubusercontent.com/59694546/122037344-1bf8c500-cdf2-11eb-8e23-1b4b373cda0f.png)
+# Your Notes Page appears in this way
+![Notes_page](https://user-images.githubusercontent.com/59694546/122037469-3b8fed80-cdf2-11eb-8147-d519fa51b8b4.png)
+
 
     
