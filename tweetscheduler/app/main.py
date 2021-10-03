@@ -1,6 +1,9 @@
 import gspread
 from flask import Flask,render_template,request,redirect
 from datetime import datetime, timedelta
+from os import environ
+from dotenv import load_dotenv
+load_dotenv()
 
 from werkzeug.utils import redirect
 app = Flask(__name__)
@@ -8,7 +11,8 @@ app = Flask(__name__)
 
 gc = gspread.service_account(filename='credentials.json')
 
-sh = gc.open_by_key('1rwHC-rRRQyUEpBxWOWqhZp6MersklmoxvlrqF4QbkNs')
+gs_key = environ['GS_KEY']
+sh = gc.open_by_key(gs_key)
 worksheet = sh.sheet1
 
 class Tweet:
