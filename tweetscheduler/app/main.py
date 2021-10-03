@@ -9,7 +9,7 @@ from werkzeug.utils import redirect
 app = Flask(__name__)
 
 
-gc = gspread.service_account(filename='credentials.json')
+gc = gspread.service_account(filename='../credentials.json')
 
 gs_key = environ['GS_KEY']
 sh = gc.open_by_key(gs_key)
